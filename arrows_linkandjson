@@ -1,0 +1,305 @@
+Shared link:
+https://arrows.app/#/import/json=eyJncmFwaCI6eyJub2RlcyI6W3siaWQiOiJuMCIsInBvc2l0aW9uIjp7IngiOjk4MS4xMDk3MzM4MzUyNDcsInkiOi03OTIuODQ1NDMyNjg3MTUxM30sImNhcHRpb24iOiIiLCJsYWJlbHMiOlsiQ2hhcmFjdGVyIl0sInByb3BlcnRpZXMiOnsibmFtZSI6Ikx1a2UgU2t5d2Fsa2VyIn0sInN0eWxlIjp7ImxhYmVsLWNvbG9yIjoiI2Y0NGUzYiJ9fSx7ImlkIjoibjEiLCJwb3NpdGlvbiI6eyJ4IjoxNTYyLjU4OTIyODI4NzcyNzMsInkiOi0zODAuMDk5OTk2NzY1MjE3N30sImNhcHRpb24iOiIiLCJsYWJlbHMiOlsiUGxhbmV0Il0sInByb3BlcnRpZXMiOnsibmFtZSI6IlRhdG9vaW5lIiwidHlwZSI6ImJhcnJlbiJ9LCJzdHlsZSI6eyJub2RlLWNvbG9yIjoiIzY4YmMwMCJ9fSx7ImlkIjoibjIiLCJwb3NpdGlvbiI6eyJ4Ijo5ODEuMTA5NzMzODM1MjQ3LCJ5IjotMzgwLjA5OTk5Njc2NTIxNzd9LCJjYXB0aW9uIjoiIiwibGFiZWxzIjpbIkNoYXJhY3RlciJdLCJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJBbmFraW4gU2t5d2Fsa2VyIn0sInN0eWxlIjp7ImxhYmVsLWNvbG9yIjoiI2Y0NGUzYiJ9fSx7ImlkIjoibjMiLCJwb3NpdGlvbiI6eyJ4Ijo5ODEuMTA5NzMzODM1MjQ3LCJ5IjozMi42NDU0MzkxNTY3MTU4NH0sImNhcHRpb24iOiIiLCJsYWJlbHMiOlsiQ2hhcmFjdGVyIl0sInByb3BlcnRpZXMiOnsibmFtZSI6IkRhcnRoIFZhZGVyIn0sInN0eWxlIjp7ImxhYmVsLWNvbG9yIjoiI2Y0NGUzYiJ9fSx7ImlkIjoibjQiLCJwb3NpdGlvbiI6eyJ4IjozOTkuNjMwMjM5MzgyNzY2NiwieSI6LTM4MC4wOTk5OTY3NjUyMTc3fSwiY2FwdGlvbiI6IiIsImxhYmVscyI6WyJDaGFyYWN0ZXIiXSwicHJvcGVydGllcyI6eyJuYW1lIjoiUHJpbmNlc3MgTGVpYSJ9LCJzdHlsZSI6eyJsYWJlbC1jb2xvciI6IiNmNDRlM2IifX0seyJpZCI6Im41IiwicG9zaXRpb24iOnsieCI6Mzk5LjYzMDIzOTM4Mjc2NjYsInkiOi03OTIuODQ1NDMyNjg3MTUxM30sImNhcHRpb24iOiIiLCJsYWJlbHMiOlsiUGxhbmV0Il0sInByb3BlcnRpZXMiOnsibmFtZSI6IkFsZGVyYWFuIiwidHlwZSI6InRlcnJlc3RyaWFsIn0sInN0eWxlIjp7Im5vZGUtY29sb3IiOiIjNjhiYzAwIn19LHsiaWQiOiJuNiIsInBvc2l0aW9uIjp7IngiOjE5Ny4yOTY3OTQxMTY2MzEyNSwieSI6LTEwLjg3MDQxNzgyMjU3NjM3MX0sImNhcHRpb24iOiIiLCJsYWJlbHMiOlsiQ2hhcmFjdGVyIl0sInByb3BlcnRpZXMiOnsibmFtZSI6IkhhbnMgU29sbyJ9LCJzdHlsZSI6e319LHsiaWQiOiJuNyIsInBvc2l0aW9uIjp7IngiOi0yODEuNTc1ODg2MDgzMDU1OCwieSI6LTEwLjg3MDQxNzgyMjU3NjM3MX0sImNhcHRpb24iOiIiLCJsYWJlbHMiOlsiUGxhbmV0Il0sInByb3BlcnRpZXMiOnsibmFtZSI6IkNvcmVsbGlhIn0sInN0eWxlIjp7Im5vZGUtY29sb3IiOiIjNjhiYzAwIn19XSwicmVsYXRpb25zaGlwcyI6W3siaWQiOiJuMCIsImZyb21JZCI6Im4wIiwidG9JZCI6Im4xIiwidHlwZSI6IkZST01fUExBTkVUIiwicHJvcGVydGllcyI6e30sInN0eWxlIjp7InR5cGUtZm9udC1zaXplIjoyNywicHJvcGVydHktZm9udC1zaXplIjoyNywicHJvcGVydHktcG9zaXRpb24iOiJvdXRzaWRlIiwicHJvcGVydHktY29sb3IiOiIjZDMzMTE1IiwiYXJyb3ctY29sb3IiOiIjMTk0ZDMzIiwiYXJyb3ctd2lkdGgiOjE0fX0seyJpZCI6Im4xIiwiZnJvbUlkIjoibjEiLCJ0b0lkIjoibjIiLCJ0eXBlIjoiRlJPTV9QTEFORVQiLCJwcm9wZXJ0aWVzIjp7fSwic3R5bGUiOnsidHlwZS1mb250LXNpemUiOjI3LCJwcm9wZXJ0eS1mb250LXNpemUiOjI3LCJwcm9wZXJ0eS1wb3NpdGlvbiI6Im91dHNpZGUiLCJwcm9wZXJ0eS1jb2xvciI6IiNkMzMxMTUiLCJhcnJvdy1jb2xvciI6IiMxOTRkMzMiLCJhcnJvdy13aWR0aCI6MTR9fSx7ImlkIjoibjIiLCJmcm9tSWQiOiJuMiIsInRvSWQiOiJuMCIsInR5cGUiOiJLTk9XUyIsInByb3BlcnRpZXMiOnsicmVsYXRpb25zaGlwIjoiZmF0aGVyIn0sInN0eWxlIjp7InR5cGUtZm9udC1zaXplIjoyNywicHJvcGVydHktZm9udC1zaXplIjoyNywicHJvcGVydHktcG9zaXRpb24iOiJvdXRzaWRlIiwicHJvcGVydHktY29sb3IiOiIjZDMzMTE1In19LHsiaWQiOiJuMyIsImZyb21JZCI6Im4yIiwidG9JZCI6Im4zIiwidHlwZSI6IkFLQSIsInByb3BlcnRpZXMiOnt9LCJzdHlsZSI6eyJ0eXBlLWZvbnQtc2l6ZSI6MjcsInByb3BlcnR5LWZvbnQtc2l6ZSI6MjcsInByb3BlcnR5LXBvc2l0aW9uIjoib3V0c2lkZSIsInByb3BlcnR5LWNvbG9yIjoiI2QzMzExNSJ9fSx7ImlkIjoibjQiLCJmcm9tSWQiOiJuMiIsInRvSWQiOiJuNCIsInR5cGUiOiJLTk9XUyIsInByb3BlcnRpZXMiOnsicmVsYXRpb25zaGlwIjoiZmF0aGVyIn0sInN0eWxlIjp7InR5cGUtZm9udC1zaXplIjoyNywicHJvcGVydHktZm9udC1zaXplIjoyNywicHJvcGVydHktcG9zaXRpb24iOiJvdXRzaWRlIiwicHJvcGVydHktY29sb3IiOiIjZDMzMTE1In19LHsiaWQiOiJuNSIsImZyb21JZCI6Im40IiwidG9JZCI6Im41IiwidHlwZSI6IkZST01fUExBTkVUIiwicHJvcGVydGllcyI6e30sInN0eWxlIjp7InR5cGUtZm9udC1zaXplIjoyNywicHJvcGVydHktZm9udC1zaXplIjoyNywicHJvcGVydHktcG9zaXRpb24iOiJvdXRzaWRlIiwicHJvcGVydHktY29sb3IiOiIjZDMzMTE1IiwiYXJyb3ctY29sb3IiOiIjMTk0ZDMzIiwiYXJyb3ctd2lkdGgiOjE0fX0seyJpZCI6Im42IiwiZnJvbUlkIjoibjYiLCJ0b0lkIjoibjciLCJ0eXBlIjoiRlJPTV9QTEFORVQiLCJwcm9wZXJ0aWVzIjp7fSwic3R5bGUiOnsidHlwZS1mb250LXNpemUiOjI3LCJwcm9wZXJ0eS1mb250LXNpemUiOjI3LCJwcm9wZXJ0eS1wb3NpdGlvbiI6Im91dHNpZGUiLCJwcm9wZXJ0eS1jb2xvciI6IiNkMzMxMTUiLCJhcnJvdy1jb2xvciI6IiMxOTRkMzMiLCJhcnJvdy13aWR0aCI6MTR9fSx7ImlkIjoibjciLCJmcm9tSWQiOiJuNiIsInRvSWQiOiJuNCIsInR5cGUiOiJLTk9XUyIsInByb3BlcnRpZXMiOnsicmVsYXRpb25zaGlwIjoic3BvdXNlIn0sInN0eWxlIjp7InR5cGUtZm9udC1zaXplIjoyNywicHJvcGVydHktZm9udC1zaXplIjoyNywicHJvcGVydHktcG9zaXRpb24iOiJvdXRzaWRlIiwicHJvcGVydHktY29sb3IiOiIjMGM3OTdkIn19XSwic3R5bGUiOnsibm9kZS1jb2xvciI6IiNmZmZmZmYiLCJib3JkZXItd2lkdGgiOjQsImJvcmRlci1jb2xvciI6IiMwMDAwMDAiLCJyYWRpdXMiOjUwLCJub2RlLXBhZGRpbmciOjUsIm91dHNpZGUtcG9zaXRpb24iOiJhdXRvIiwiY2FwdGlvbi1wb3NpdGlvbiI6Imluc2lkZSIsImNhcHRpb24tbWF4LXdpZHRoIjoyMDAsImNhcHRpb24tY29sb3IiOiIjMDAwMDAwIiwiY2FwdGlvbi1mb250LXNpemUiOjUwLCJjYXB0aW9uLWZvbnQtd2VpZ2h0Ijoibm9ybWFsIiwibGFiZWwtcG9zaXRpb24iOiJpbnNpZGUiLCJsYWJlbC1jb2xvciI6IiMwMDAwMDAiLCJsYWJlbC1iYWNrZ3JvdW5kLWNvbG9yIjoiI2ZmZmZmZiIsImxhYmVsLWJvcmRlci1jb2xvciI6IiMwMDAwMDAiLCJsYWJlbC1ib3JkZXItd2lkdGgiOjQsImxhYmVsLWZvbnQtc2l6ZSI6NDAsImxhYmVsLXBhZGRpbmciOjUsImxhYmVsLW1hcmdpbiI6NCwiZGlyZWN0aW9uYWxpdHkiOiJkaXJlY3RlZCIsImRldGFpbC1wb3NpdGlvbiI6ImlubGluZSIsImRldGFpbC1vcmllbnRhdGlvbiI6InBhcmFsbGVsIiwiYXJyb3ctd2lkdGgiOjUsImFycm93LWNvbG9yIjoiIzAwMDAwMCIsIm1hcmdpbi1zdGFydCI6NSwibWFyZ2luLWVuZCI6NSwibWFyZ2luLXBlZXIiOjIwLCJhdHRhY2htZW50LXN0YXJ0Ijoibm9ybWFsIiwiYXR0YWNobWVudC1lbmQiOiJub3JtYWwiLCJ0eXBlLWNvbG9yIjoiIzAwMDAwMCIsInR5cGUtYmFja2dyb3VuZC1jb2xvciI6IiNmZmZmZmYiLCJ0eXBlLWJvcmRlci1jb2xvciI6IiMwMDAwMDAiLCJ0eXBlLWJvcmRlci13aWR0aCI6MCwidHlwZS1mb250LXNpemUiOjQwLCJ0eXBlLXBhZGRpbmciOjUsInByb3BlcnR5LXBvc2l0aW9uIjoib3V0c2lkZSIsInByb3BlcnR5LWNvbG9yIjoiIzAwMDAwMCIsInByb3BlcnR5LWZvbnQtc2l6ZSI6NDAsInByb3BlcnR5LWZvbnQtd2VpZ2h0Ijoibm9ybWFsIn19LCJkaWFncmFtTmFtZSI6IlVudGl0bGVkIGdyYXBoIn0=
+
+JSON:
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 981.109733835247,
+        "y": -792.8454326871513
+      },
+      "caption": "",
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Luke Skywalker"
+      },
+      "style": {
+        "label-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 1562.5892282877273,
+        "y": -380.0999967652177
+      },
+      "caption": "",
+      "labels": [
+        "Planet"
+      ],
+      "properties": {
+        "name": "Tatooine",
+        "type": "barren"
+      },
+      "style": {
+        "node-color": "#68bc00"
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 981.109733835247,
+        "y": -380.0999967652177
+      },
+      "caption": "",
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Anakin Skywalker"
+      },
+      "style": {
+        "label-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 981.109733835247,
+        "y": 32.64543915671584
+      },
+      "caption": "",
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Darth Vader"
+      },
+      "style": {
+        "label-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 399.6302393827666,
+        "y": -380.0999967652177
+      },
+      "caption": "",
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Princess Leia"
+      },
+      "style": {
+        "label-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 399.6302393827666,
+        "y": -792.8454326871513
+      },
+      "caption": "",
+      "labels": [
+        "Planet"
+      ],
+      "properties": {
+        "name": "Alderaan",
+        "type": "terrestrial"
+      },
+      "style": {
+        "node-color": "#68bc00"
+      }
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 197.29679411663125,
+        "y": -10.870417822576371
+      },
+      "caption": "",
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Hans Solo"
+      },
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": -281.5758860830558,
+        "y": -10.870417822576371
+      },
+      "caption": "",
+      "labels": [
+        "Planet"
+      ],
+      "properties": {
+        "name": "Corellia"
+      },
+      "style": {
+        "node-color": "#68bc00"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "FROM_PLANET",
+      "properties": {},
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#d33115",
+        "arrow-color": "#194d33",
+        "arrow-width": 14
+      }
+    },
+    {
+      "id": "n1",
+      "fromId": "n1",
+      "toId": "n2",
+      "type": "FROM_PLANET",
+      "properties": {},
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#d33115",
+        "arrow-color": "#194d33",
+        "arrow-width": 14
+      }
+    },
+    {
+      "id": "n2",
+      "fromId": "n2",
+      "toId": "n0",
+      "type": "KNOWS",
+      "properties": {
+        "relationship": "father"
+      },
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#d33115"
+      }
+    },
+    {
+      "id": "n3",
+      "fromId": "n2",
+      "toId": "n3",
+      "type": "AKA",
+      "properties": {},
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#d33115"
+      }
+    },
+    {
+      "id": "n4",
+      "fromId": "n2",
+      "toId": "n4",
+      "type": "KNOWS",
+      "properties": {
+        "relationship": "father"
+      },
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#d33115"
+      }
+    },
+    {
+      "id": "n5",
+      "fromId": "n4",
+      "toId": "n5",
+      "type": "FROM_PLANET",
+      "properties": {},
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#d33115",
+        "arrow-color": "#194d33",
+        "arrow-width": 14
+      }
+    },
+    {
+      "id": "n6",
+      "fromId": "n6",
+      "toId": "n7",
+      "type": "FROM_PLANET",
+      "properties": {},
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#d33115",
+        "arrow-color": "#194d33",
+        "arrow-width": 14
+      }
+    },
+    {
+      "id": "n7",
+      "fromId": "n6",
+      "toId": "n4",
+      "type": "KNOWS",
+      "properties": {
+        "relationship": "spouse"
+      },
+      "style": {
+        "type-font-size": 27,
+        "property-font-size": 27,
+        "property-position": "outside",
+        "property-color": "#0c797d"
+      }
+    }
+  ],
+  "style": {
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "outside-position": "auto",
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 40,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-color": "#000000",
+    "property-font-size": 40,
+    "property-font-weight": "normal"
+  }
+}
